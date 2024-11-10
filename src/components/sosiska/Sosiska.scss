@@ -1,0 +1,31 @@
+.Sosiska-box{
+    background-color: pink;
+    padding: 50px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.Sosiska-card{
+    padding: 15px;
+    border-radius: 20px;
+    border: 2px solid black; 
+}
+
+.Sosiska-card-1{
+    padding: 15px;
+    border-radius: 20px;
+    background-color: red;
+    color: yellow;
+    border: 2px solid black;
+}
+
+.Sosiska-card-2{
+    border-radius: 20px;
+    padding: 15px;
+    background-color: yellow;
+    color: red;
+    border: 2px solid black;
+}
